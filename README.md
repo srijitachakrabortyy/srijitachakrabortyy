@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d56c99e6-5fd8-4155-bdc8-5ccf98b22eed" width="200" alt="Cinnamoroll Pixel Art">
+<img src="https://github.com/user-attachments/assets/d56c99e6-5fd8-4155-bdc8-5ccf98b22eed" width="500" alt="Cinnamoroll Pixel Art">
 </p>
 
 <h1 align="center">Hi 👋, I'm Srijita Chakraborty</h1>
