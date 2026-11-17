@@ -1,5 +1,6 @@
-<p align="center"><img src="https://camo.githubusercontent.com/6fe3e654403d6a67d1198d5422e4e725b69a609cbeb3e4da8d7cb6933c681968/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f68725346644d3472673856467058797a326d2f67697068792e676966" /> </p>
-  
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d56c99e6-5fd8-4155-bdc8-5ccf98b22eed" width="200" alt="Cinnamoroll Pixel Art">
+</p>
 
 <h1 align="center">Hi 👋, I'm Srijita Chakraborty</h1>
 <h3 align="center">A passionate Tech Enthusiast from India :)</h3>
